@@ -3,7 +3,6 @@ import {UsersData} from "data";
 function UserGet(req, res) {
   const token = req.header("x-root-token");
 
-
   if (!token) {
     return res.status(401).json({msg: "No token"});
   }
