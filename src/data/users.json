@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0",
+    "firstName": "Admin",
+    "LastName": "Admin",
+    "username": "admin",
+    "lastSignIn": 0,
+    "password": "admin@alv",
+    "xAuthToken": "1asdfdg86ygbfd7cg7schb7q152",
+    "authorities": [
+      "ADMIN_ALL"
+    ]
+  }
+]
